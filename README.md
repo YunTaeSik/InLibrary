@@ -26,5 +26,5 @@ Sqlite 적용, UI 적용, 간단한 Animation 적용 등등
   <img src="https://user-images.githubusercontent.com/23161645/72790073-3586f300-3c78-11ea-83bc-7ba242baf87d.png" hspace=8>
 </div>
 <div>
-  <img src="https://user-images.githubusercontent.com/23161645/72790087-3cae0100-3c78-11ea-8f93-eba1e72c3b24.png" hspace=8>
+  <img src="https://user-images.githubusercontent.com/23161645/72809550-2ff0d380-3c9f-11ea-91e3-3fcb22f55821.png" hspace=8>
 </div>

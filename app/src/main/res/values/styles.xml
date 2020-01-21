@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+       &lt;!&ndash; <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>&ndash;&gt;
+    </style>-->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+
+    <style name="ActionBar" parent="android:Widget.ActionBar">
+        <item name="android:background">@color/actionbar_color</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:titleTextStyle">@style/ActionBar.TitleText</item>
+    </style>
+
+    <style name="ActionBar.TitleText" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MyHoloTimePicker2" parent="@android:style/Widget.Material.Light.TimePicker">
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="MyHoloDatePicker2" parent="@android:style/Widget.Material.Light.DatePicker">
+        <item name="android:textColor">#000000</item>
+
+    </style>
+
+
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/nav_title_bg"
+            android:gravity="center"
+            android:text="활동층과 목적과 이동수단을 입력해주세요."
+            android:textColor="#000000"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="활동층"
+                android:textColor="#888888"
+                android:textSize="15dp" />
+
+            <Spinner
+                android:id="@+id/action_spinner"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_margin="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="8"
+                android:spinnerMode="dropdown"
+                android:theme="@android:style/Theme.Holo.Light" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="목적"
+                android:textColor="#888888"
+                android:textSize="15dp" />
+
+            <Spinner
+                android:id="@+id/purpose_spinner"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_margin="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="8"
+                android:spinnerMode="dropdown"
+                android:theme="@android:style/Theme.Holo.Light" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="이동수단"
+                android:textColor="#888888"
+                android:textSize="15dp" />
+
+            <Spinner
+                android:id="@+id/route_spinner"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_margin="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="8"
+                android:spinnerMode="dropdown"
+                android:theme="@android:style/Theme.Holo.Light" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/ok_btn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/iot_btn_background"
+                android:gravity="center"
+                android:text="확인"
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/iot_btn_background"
+                android:gravity="center"
+                android:text="취소"
+                android:textColor="#000000" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

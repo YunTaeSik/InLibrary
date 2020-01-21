@@ -1,0 +1,236 @@
+[
+    {
+        "outputFile": "C:\\Users\\sky87\\Desktop\\android\\InLibrary_06_24_0\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\sky87\\Desktop\\android\\InLibrary_06_24_0\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary2016_07_30\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary2016_07_30\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary_07_30\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary_07_30\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sky87\\Desktop\\InLibrary2016_06_25_01\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\sky87\\Desktop\\InLibrary2016_06_25_01\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\YunTaeSik\\Desktop\\android\\InLibrary\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sky87\\Desktop\\android\\InLibrary_06_24_02\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\sky87\\Desktop\\android\\InLibrary_06_24_02\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\android\\InLibrary2016_07_03\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\android\\InLibrary2016_07_03\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\asterasys\\Downloads\\InLibrary_09_08\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\asterasys\\Downloads\\InLibrary_09_08\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sky87\\Desktop\\android\\InLibrary\\slideDateTimePicker\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\sky87\\Desktop\\android\\InLibrary\\slideDateTimePicker\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InLibrary</string>
+    <string name="app_name_ko">인라이브러리</string>
+    <string name="app_name_korea">도서관 다이어리</string>
+    <string name="view_menual">메뉴얼</string>
+    <string name="writing_diary">다이어리 기록하기</string>
+    <string name="app_description">Android drawer icon with material design animation</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+</resources>
